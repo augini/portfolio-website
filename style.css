@@ -634,7 +634,7 @@ xclip
 
 .btn-hover-new:hover {
     color: #ffffff;
-    background-color: #333333;
+    background-color: #5070fc;
 }
 
 .btn-hover-new:hover>span {
@@ -2523,4 +2523,5 @@ select.mobile-device {
 
 p {
     font-size: 1.2rem;
+    color: black;
 }
