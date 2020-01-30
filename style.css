@@ -561,6 +561,7 @@ xclip
     display: block;
     position: relative;
     margin-bottom: 60px;
+    color: black;
 }
 
 .section-title p {
