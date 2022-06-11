@@ -9,5 +9,5 @@ Visit the first version of [my personal site](https://augini.github.io/portfolio
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [jQuery](https://jquery.com/)
-- 
+
 It was online from 2019 ~ 2022 at [atabekov.com](https://atabekov.com)
